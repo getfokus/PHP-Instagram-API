@@ -1,9 +1,9 @@
 {
-    "name": "php-instagram-api/php-instagram-api",
+    "name": "getfokus/php-instagram-api",
     "type": "library",
     "description": "PHP Instagram API for PHP 5.3+",
     "keywords": ["instagram"],
-    "homepage": "https://github.com/galen/PHP-Instagram-API",
+    "homepage": "https://github.com/getfokus/PHP-Instagram-API",
     "license": "MIT",
     "authors": [
         {
